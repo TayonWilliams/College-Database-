@@ -9,5 +9,5 @@ Secondly, Teachers can grade students for the semester and view all current stud
 * Admin ability - Add, Deletion, and View students and teachers, attending the University.
 * Teacher's ability - Grade and view all student's records.
 * Students - View their grades for the semester. 
-# Features to be implemented:
+# Features to be implemented
 Incorporate Tableau to see which teachers are providing the best education for the students based on students' grades. 
